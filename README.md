@@ -21,4 +21,4 @@ go run main.go
 
 ## Authors
 stvn stnnnghm
-[@LordSTEVAN](https://twitter.com/lordstevan)
+[@stnnnghm](https://www.github.com/stnnnghm)
